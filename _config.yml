@@ -20,7 +20,7 @@ cusdis:
 
 user:
   name: devky
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/KakaoTalk_20220201_194736181.jpg
   picAlt: "devky"
   job: frontend developer
   aboutme: false # comment this out if you don't need the 'about' page.
