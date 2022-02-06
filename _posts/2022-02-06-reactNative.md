@@ -57,7 +57,9 @@ const App = () => {
 ```
 
 SafeAreaView => iPhone X 이상 기종에서 디스플레이가 보이지 않는 영역과 최하단 영역에 내용이 보여지는것을 방지해주는 컴포넌트
+
 View => 가장 기본적인 컴포넌트(레이아웃 및 스타일)
+
 Text => 텍스트를 보여주는 컴포넌트
 
 ### Props & defaultProps
