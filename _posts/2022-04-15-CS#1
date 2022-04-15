@@ -1,0 +1,33 @@
+---
+title: CS#1
+categories: [dev]
+comments: true
+---
+
+
+## 비트(bit)?
+
+- 비트란?
+컴퓨터에서 처리하는 데이터를 나타내는 최소 단위이고
+2진수로 이루어진 데이터를 처리, 저장, 전송할 때 사용
+8bit -> 1byte
+
+## 픽셀(pixel)
+
+이미지를 이루는 가장 작은 단위
+1px -> 1byte
+
+## 스택(Stack) / 큐(Queue)
+
+- 스택? LIFO(Last Input First Out) 
+나중에 들어간 데이터가 먼저 나오는 구조
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1200px-Data_stack.svg.png)
+
+- 큐? FIFO(First Input First Out)
+먼저 먼어간 데이터가 먼저 나오는 구조
+
+![](https://blog.kakaocdn.net/dn/ooQmV/btqMqdzNEbX/rtn2eAZbz8wQml93F9c1pK/img.png)
+
+
+
