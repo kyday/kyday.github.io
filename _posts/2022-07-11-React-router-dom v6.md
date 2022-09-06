@@ -66,7 +66,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 - Link 컴포넌트는 브라우저의 주소만 변경할 뿐, 페이지를 새로 불러오지는 않는다.
   NavLink 컴포넌트는 Link 컴포넌트와는 달리 스타일을 적용할 수 있다.
 
-- Rename <NavLink exact> to <NavLink end> 으로 이름이 변경되었다.
+- Rename `<NavLink exact>` to `<NavLink end>` 으로 이름이 변경되었다.
 
 ```
 <NavLink
